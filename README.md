@@ -1,1 +1,1 @@
-# Task3
+# Docker compose file enabling the deployment of MySql with a blog system
